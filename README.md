@@ -1,7 +1,7 @@
 
 # Safety Assessment of 3D Generation Models in AR/VR Applications
 
-[![DOI](https://img.shields.io/badge/DOI-XXXXXXX.XXXXXXX-blue?style=flat-square)](https://doi.org/10.1145/3733800.3763268)
+[![DOI](https://img.shields.io/badge/DOI-10.1145/3733800.3763268-blue?style=flat-square)](https://doi.org/10.1145/3733800.3763268)
 
 This repository provides the data and code for the paper *Safety Assessment of 3D Generation Models in AR/VR Applications*, which has been **submitted to ACM LAMPS '25**.
 
