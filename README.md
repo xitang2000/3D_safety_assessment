@@ -25,7 +25,7 @@ This repository provides the data and code for the paper *Safety Assessment of 3
 **Installation**:
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/qazwsx4008823823/3D_safety_assessment.git
+    git clone https://github.com/xitang2000/3D_safety_assessment.git
     cd 3D_safety_assessment
     ```
 
