@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+numpy==1.26.4
+tqdm
+transformers
+accelerate
+safetensors
+Pillow
+requests
+trimesh
+open3d
+pyvista
