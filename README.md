@@ -1,7 +1,7 @@
 
 # Safety Assessment of 3D Generation Models in AR/VR Applications
 
-[![DOI](https://img.shields.io/badge/DOI-XXXXXXX.XXXXXXX-blue?style=flat-square)](https://doi.org/XXXXXXX.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-XXXXXXX.XXXXXXX-blue?style=flat-square)](https://doi.org/10.1145/3733800.3763268)
 
 This repository provides the data and code for the paper *Safety Assessment of 3D Generation Models in AR/VR Applications*, which has been **submitted to ACM LAMPS '25**.
 
@@ -10,7 +10,7 @@ This repository provides the data and code for the paper *Safety Assessment of 3
 
 ### Architecture Overview
 
-![Pipeline Overview](asset/overview_1.png)
+![Pipeline Overview](assets/overview_1.png)
 *Figure 1: Overview of the proposed multimodal 3D asset safety assessment pipeline.*
 
 ## Preparation
@@ -64,6 +64,6 @@ python train.py \
 
 We have some unsafe contents .gif here:
 
-<img src="asset/output_176.gif" width="30%">
-<img src="asset/output_159.gif" width="30%">
-<img src="asset/output_226.gif" width="30%">
+<img src="assets/output_176.gif" width="30%">
+<img src="assets/output_159.gif" width="30%">
+<img src="assets/output_226.gif" width="30%">
